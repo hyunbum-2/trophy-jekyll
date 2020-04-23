@@ -4,9 +4,9 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: Trophy
-description: 
+description: new
 url: http://hyunbum-2.github.io
-baseurl: ""
+baseurl: /trophy-jekyll/
 twitter_username: 
 default_img: 
 
